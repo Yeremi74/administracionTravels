@@ -20,6 +20,7 @@ import { CartProvider } from './context/CartContex';
 import Footer from './components/Footer';
 import Purchase from './pages/AdminPages/Purchase';
 import Transacciones from './pages/AdminPages/Transacciones';
+// hola a
 
 function App() {
   return (
